@@ -1,0 +1,20 @@
+{
+  "name": "fakedb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json-server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtharden3/fakedb.git"
+  },
+  "author": "Whitney Harden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtharden3/fakedb/issues"
+  },
+  "homepage": "https://github.com/wtharden3/fakedb#readme"
+}
